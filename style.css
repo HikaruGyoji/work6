@@ -300,7 +300,7 @@ body {
 a {
   transition: 0.3s;
   text-decoration: none;
-  color: #391e88;
+  color: #334fa4;
 }
 a:hover {
   text-decoration: underline;
@@ -313,12 +313,12 @@ img {
 
 ::-moz-selection {
   color: #fff;
-  background-color: #391e88;
+  background-color: #334fa4;
 }
 
 ::selection {
   color: #fff;
-  background-color: #391e88;
+  background-color: #334fa4;
 }
 
 .video {
@@ -413,7 +413,7 @@ img {
 }
 .l-header.is-active {
   height: 64px;
-  background-color: #21054d;
+  background-color: #05374d;
 }
 @media screen and (max-width: 768px) {
   .l-header__logo {
@@ -503,7 +503,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  color: #391e88;
+  color: #334fa4;
   font-size: 36px;
   font-size: 2.25rem;
 }
@@ -529,7 +529,7 @@ img {
 .c-heading-secondary {
   font-weight: bold;
   line-height: 1;
-  color: #391e88;
+  color: #334fa4;
   font-size: 32px;
   font-size: 2rem;
 }
@@ -554,7 +554,7 @@ img {
   text-transform: uppercase;
   color: #fff;
   border-radius: 50px;
-  background-image: linear-gradient(to right, #7633a4 0%, #250d65 51%, #7633a4 100%);
+  background-image: linear-gradient(to right, #334fa4 0%, #250d65 51%, #7633a4 100%);
   background-size: 200% auto;
   font-size: 14px;
   font-size: 0.875rem;
@@ -645,7 +645,7 @@ img {
   padding: 12px;
   text-align: center;
   text-decoration: none;
-  color: #391e88;
+  color: #334fa4;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
   background-color: #fff;
   border-radius: 50%;
@@ -684,6 +684,7 @@ img {
 }
 .logo__img {
   display: block;
+  width: 250px;
 }
 
 .c-media {
@@ -851,7 +852,7 @@ img {
 }
 .c-form__require {
   margin-left: 10px;
-  color: #391e88;
+  color: #334fa4;
   font-size: 12px;
   font-size: 0.75rem;
 }
@@ -1153,7 +1154,7 @@ img {
 }
 
 .swiper-pagination-bullet-active {
-  background: #391e88;
+  background: #334fa4;
 }
 
 .p-hero {
@@ -1410,7 +1411,7 @@ img {
   position: relative;
   line-height: 1.6;
   font-weight: bold;
-  color: #393636;
+  color: #363839;
   margin-top: 60px;
   margin-bottom: 20px;
   padding-left: 20px;
@@ -1432,7 +1433,7 @@ img {
   width: 6px;
   height: 100%;
   border-radius: 3px;
-  background-color: #391e88;
+  background-color: #334fa4;
 }
 .p-post__body > h3:first-child {
   margin-top: 0;
@@ -1528,7 +1529,7 @@ img {
   height: 100%;
   padding: 10px 20px;
   text-decoration: none;
-  color: #391e88;
+  color: #334fa4;
   font-size: 14px;
   font-size: 0.875rem;
 }
@@ -1551,7 +1552,7 @@ img {
   display: block;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
-  color: #391e88;
+  color: #334fa4;
 }
 .p-post-pager__home {
   text-align: center;
@@ -1746,7 +1747,7 @@ img {
   margin-top: 30px;
   margin-bottom: 20px;
   padding: 0 15px;
-  color: #391e88;
+  color: #334fa4;
 }
 @media screen and (max-width: 768px) {
   .p-recruit-message__heading {
